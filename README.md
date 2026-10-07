@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/lsn-foundation-logo.png"></p>
+
 # LSN Foundation
 
 Governance and stewardship of the Lattice Semantic Nexus.
