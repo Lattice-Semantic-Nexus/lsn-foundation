@@ -35,3 +35,9 @@ The Lattice Semantic Nexus is structured around four distinct but related functi
 
 **LSN Foundation**  
 Stewardship of the Lattice Semantic Nexus
+
+## Licensing
+
+Unless otherwise stated, content within this repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+See the LICENSE file for details.
