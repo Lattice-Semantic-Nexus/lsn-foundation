@@ -1,3 +1,4 @@
+assets/lsn-foundation-logo.png
 # LSN Foundation
 
 Governance and stewardship of the Lattice Semantic Nexus.
